@@ -14,6 +14,7 @@
 |Louisville|Joshua Taylor|"Louisville, Kentucky, USA"||@louposh|contact@louposh.org|
 |Virtual|Joel Bennett|Virtual (Online - No Physical Location)|https://slack.poshcode.org||Jaykul@HuddledMasses.org|
 |Romania|Sorin Pasa|"Bucharest, Romania"|https://www.meetup.com/Romanian-PowerShell-User-Group/|@ROMANIAPUG|romaniapug@yahoo.com|
+|PowerShell_ES Spanish User Group|Tomas Cribb|"Rosario, Argentina"|https://http://blog.powershell-es.com/|@PowerShell_ES|tomascribb@gmail.com|
 |St. Louis|Michael Lombardi|"St. Louis, Missouri, USA"|https://www.meetup.com/stlpsug|stl.psug@outlook.com|
 |Kansas City PowerShell User Group|Robin Haberstroh|Lenexa, KS, USA|http://kcpsug.com|@KCPSUG|kcpsug@outlook.com|
 |Dutch PowerShell User Group|Richard Diphoorn/Jeff Wouters/Jaap Brasser|Netherlands|https://www.dupsug.com|@DUPSUG|info@dupsug.com
@@ -22,4 +23,5 @@
 |Omaha PowerShell User Group|Boe Prox / Josh Duffney|Omaha, NE, USA|https://twitter.com/OmahaPSUG|[@OmahaPSUG](https://twitter.com/OmahaPSUG)|[omahapsug@gmail.com](mailto:omahapsug@gmail.com)|
 |GRPosh|[Thomas Malkewitz](https://dotps1.github.io)|Grand Rapids, Michigan, USA|https://grposh.github.io|[@grposh](https://twitter.com/grposh)|[grposh@outlook.com](mailto:grposh@outlook.com)|
 |MidMo|Josh Rickard|"Columbia, Missouri, USA"|https://www.eventbrite.com/e/midmo-powershell-user-group-tickets-22516367060#|@MidMoPowerShell|midmo-powershell@googlegroups.com|
-|Scottish PowerShell User group|Paul Broadwith|Scotland|https://www.meetup.com/Scottish-PowerShell-User-Group/|@ScotPSUG|https://www.meetup.com/Scottish-PowerShell-User-Group/
+|Scottish PowerShell User group|Paul Broadwith|Scotland|https://www.meetup.com/Scottish-PowerShell-User-Group/|@ScotPSUG|https://www.meetup.com/Scottish-PowerShell-User-Group/|
+
